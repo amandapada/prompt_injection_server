@@ -18,7 +18,7 @@ The server also queries the Gemini API securely.
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/prompt-injection-proxy.git
+git clone https://github.com/amandapada/prompt_injection_server.git
 cd prompt-injection-proxy
 ```
 ### 2. Create a virtual environment and activate it
